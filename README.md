@@ -19,7 +19,7 @@ Understanding salary distribution across different job roles and fields is essen
 
 ## 📸 Dashboard Preview
 
-![Dashboard](images/dashboard_screenshot.png)
+![Dashboard](images/Dashboard_Screenshot.png)
 
 ---
 
